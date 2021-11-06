@@ -1,1 +1,1 @@
-bot: python AquaSensebot.py
+worker: python AquaSensebot.py

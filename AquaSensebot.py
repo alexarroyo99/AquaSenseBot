@@ -1,7 +1,6 @@
 import telegram
 from telegram.ext import *
 from decouple import config
-from telegram.ext import messagehandler
 from AquaSenseCommands import Commands
 
 
